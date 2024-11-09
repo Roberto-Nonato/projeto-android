@@ -56,10 +56,10 @@ nav{
     text-align: justify;
 }
 nav > a{
-    color: white;
+    color: var(--cor1);
     text-decoration: none;
     text-align: justify;
-    margin-right: 10px;
+    margin-right: 0px;
     font-weight: bold;
     font-size: 15px;
     padding: 5px;
